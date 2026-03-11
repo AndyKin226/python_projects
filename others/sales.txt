@@ -1,0 +1,5 @@
+Name,Country,Sales
+Luis,Spain,120
+Andy,USA,95
+Maria,France,110
+Jin,China,130
